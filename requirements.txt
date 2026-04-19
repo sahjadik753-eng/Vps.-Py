@@ -1,2 +1,2 @@
-python-telegram-bot==20.7
+python-telegram-bot>=21.0
 paramiko==3.4.0
